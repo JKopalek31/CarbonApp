@@ -5,9 +5,7 @@ data. This project uses a website to map user data onto different graphs and use
 predictions for what is to come.
 
 
-- **Devposts Link:** View the Hackathon Project [here](https://devpost.com/submit-to/23610-brickhack-11/manage/submissions_gl=1*1senmi1*_gcl_au*MTc0OTAyMjQwNS4xNzM3MDY2NDIx*_ga*MTQzNzUzMjQwMi4xNzM3MDY2NDIx*_ga_0YHJK3Y10M*MTc0NDEyNDYyMS4xMS4xLjE3NDQxMjQ2MzguMC4wLjA.)
-
-
+- **Devposts Link:** View the Hackathon Project [here](https://devpost.com/software/leaf-zer0?_gl=1*1g5tr82*_gcl_au*MTc0OTAyMjQwNS4xNzM3MDY2NDIx*_ga*MTQzNzUzMjQwMi4xNzM3MDY2NDIx*_ga_0YHJK3Y10M*MTc0NDEyNDYyMS4xMS4xLjE3NDQxMjQ2OTcuMC4wLjA.)
 
 
 ## Tech Stack
